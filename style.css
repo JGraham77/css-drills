@@ -23,6 +23,7 @@ span {
     border: solid rgb(190, 164, 15);
     border-radius: 5em;
     width: 30em;
+    display: block;
 }
 #box1 {
     background-color: lightblue;
@@ -35,4 +36,12 @@ span {
 }
 #box4 {
     background-color: rgb(224, 139, 224);
+}
+.image {
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    background-color: black;
+    position: absolute;
+    left: 18em;
 }
