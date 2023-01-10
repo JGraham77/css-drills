@@ -17,3 +17,22 @@ span {
     color: blue;
     font-weight: bold;
 }
+.boxes {
+    margin: 5em;
+    padding: 5em;
+    border: solid rgb(190, 164, 15);
+    border-radius: 5em;
+    width: 30em;
+}
+#box1 {
+    background-color: lightblue;
+}
+#box2 {
+    background-color: lightseagreen;
+}
+#box3 {
+    background-color: lightsalmon;
+}
+#box4 {
+    background-color: rgb(224, 139, 224);
+}
