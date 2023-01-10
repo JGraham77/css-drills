@@ -45,3 +45,39 @@ span {
     position: absolute;
     left: 18em;
 }
+h1 {
+    color: darkcyan;
+}
+.original {
+    color: darkmagenta;
+}
+.additional {
+    color: brown;
+}
+#rank1 {
+    color: aliceblue;
+}
+#rank2 {
+    color: gold;
+}
+#rank3 {
+    color: blueviolet;
+}
+#rank4 {
+    color: cornflowerblue;
+}
+#rank5 {
+    color: maroon;
+}
+ul {
+    color: honeydew;
+}
+.star {
+    color: yellowgreen;
+}
+#wars {
+    color: rebeccapurple;
+}
+.list-border {
+    border: solid black 2px;
+}
